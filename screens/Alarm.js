@@ -6,7 +6,7 @@ import { USERS } from "../Data";
 
 const Alarm = ({route}) => {
 
-    const {user} = route.params;
+    const {user, message} = route.params;
     const navigation = useNavigation();
   return (
     <ScrollView nestedScrollEnabled={true} onTouchStart={()=>{
@@ -33,7 +33,7 @@ const Alarm = ({route}) => {
       {/* Alarm Icon */}
       <View style={{alignItems:'center',marginTop:'40%'}}>
         <Ionicons name="alarm" size={100} color="" />
-        <Text style={{textAlign:'center', marginTop:20}}>Rise and shine</Text>
+        <Text style={{textAlign:'center', marginTop:20}}>{message ? message : "Rise and shine"}</Text>
         
       </View>
 

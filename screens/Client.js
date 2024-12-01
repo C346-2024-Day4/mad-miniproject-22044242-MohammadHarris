@@ -46,7 +46,7 @@ const Header = ({ route }) => {
         currentHours === groupTime.hours &&
         currentMinutes === groupTime.minutes
       ) {
-        navigation.navigate("alarm", { user: user }); // Navigate to alarm page when the times match
+        navigation.navigate("alarm", { user: user, message: CURRENT_GROUP.message }); // Navigate to alarm page when the times match
       }
     };
 
