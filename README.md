@@ -18,8 +18,12 @@
  
 Screenshots of the app:
  
-![Screenshot 1](./docs/placeholder.jpg)
- 
+![Screenshot 1](![main page](image.png))
+![Selection of groups](image-1.png)
+![Create a group](image-2.png)
+![Create a group part 2](image-3.png)
+![Analysis](image-4.png)
+![Alarm](image-5.png)
 Video walkthrough of the app:
 https://www.youtube.com/watch?v=somevideoplaceholder
  
