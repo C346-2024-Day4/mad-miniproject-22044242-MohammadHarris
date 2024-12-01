@@ -27,7 +27,7 @@ Screenshots of the app:
 
 
 Video walkthrough of the app:
-https://www.youtube.com/watch?v=somevideoplaceholder
+[https://www.youtube.com/watch?v=somevideoplaceholder](https://youtu.be/a46bjuOKru8?feature=shared)
  
  
 ------------
