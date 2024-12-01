@@ -32,8 +32,7 @@ https://www.youtube.com/watch?v=somevideoplaceholder
  
 ------------
  
-Feel free to download this app to your phone:
-Link to APK file of the app: [Download APK](./docs/app-release.apk)
+APK is coming soon. Have not learnt it yet :)
  
  
  
