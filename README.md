@@ -18,7 +18,7 @@
  
 Screenshots of the app:
  
-![Screenshot 1](![main page](image.png))
+![mainpage](image-6.png)
 ![Selection of groups](image-1.png)
 ![Create a group](image-2.png)
 ![Create a group part 2](image-3.png)
