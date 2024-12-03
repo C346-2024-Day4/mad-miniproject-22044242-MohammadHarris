@@ -32,7 +32,7 @@ Video walkthrough of the app:
  
 ------------
  
-APK is coming soon. Have not learnt it yet :)
+APK(AAB FILE): https://expo.dev/artifacts/eas/nYZkVf97EeBtuK16vB3k8s.aab
  
  
  
